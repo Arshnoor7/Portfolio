@@ -1,6 +1,6 @@
 # Portfolio
 
-# Visit my Website 
-- [here](https://portfolio-arshnoor7.vercel.app/)
-- [here](https://arshnoor7.github.io/Portfolio/)
-- [here](https://arshnoor.netlify.app/)
+## Visit my Website 
+- [arshnoor7.github.io](https://arshnoor7.github.io/Portfolio/)
+- [vercel](https://portfolio-arshnoor7.vercel.app/)
+- [netlify](https://arshnoor.netlify.app/)
