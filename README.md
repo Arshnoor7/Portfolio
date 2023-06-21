@@ -1,5 +1,6 @@
 # Portfolio
 
-Visit my Website- https://portfolio-arshnoor7.vercel.app/
+###Visit my Website [here](https://portfolio-arshnoor7.vercel.app/)
  OR
- https://arshnoor7.github.io/Portfolio/
+  by clicking [here](https://arshnoor7.github.io/Portfolio/)
+  OR [here](https://arshnoor.netlify.app/)
